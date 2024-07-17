@@ -153,7 +153,7 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 ```
-![Demand for skills in the Job Market](assets\image-3.png)
+![Demand for skills in the Job Market](image-3.png)
 
 *The bar chart above visually represents the demand for various skills in the job market and it was made using ChatGPT.*
 
