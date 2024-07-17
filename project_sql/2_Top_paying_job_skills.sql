@@ -24,6 +24,7 @@ WITH top_paying_jobs AS
         INNER JOIN skills_dim s ON sj.skill_id = s.skill_id
     ORDER BY
         salary_year_avg DESC    
+   
 
 
 /*
